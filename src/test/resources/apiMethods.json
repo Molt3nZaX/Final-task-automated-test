@@ -1,0 +1,9 @@
+{
+  "token": "token",
+  "test": "test",
+  "put": "put",
+  "get": "get",
+  "log": "log",
+  "attachment": "attachment",
+  "json": "json"
+}

@@ -1,0 +1,15 @@
+{
+  "variant": "2",
+  "token": "token",
+  "projectName": "Nexage",
+  "imageType": "image/png",
+  "testName": "ExamTest",
+  "methodName": "examTest",
+  "hostName": "MOT3NZAX",
+  "quantityRandomNumbers": 6,
+  "[": "[",
+  ":": ":",
+  "=": "=",
+  "saved": "saved",
+  "dropDownChoice": "Bug"
+}

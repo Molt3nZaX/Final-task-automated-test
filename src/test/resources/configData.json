@@ -1,0 +1,9 @@
+{
+  "http": "http",
+  "host": "localhost",
+  "web": "/web",
+  "api": "/api",
+  "port": 8080,
+  "login": "***",
+  "password": "***"
+}
